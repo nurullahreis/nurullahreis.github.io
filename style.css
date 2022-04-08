@@ -1,0 +1,94 @@
+.slides{
+
+height:930px;
+
+
+}
+body{
+ 
+    font-family: 'Comic Neue', cursive;
+}
+
+.aboutme{
+
+    background-color:aliceblue;
+}
+
+.ayrac{
+
+    border: none;
+    border-top :3px solid black;
+    max-width: 250px; 
+    margin: 25px auto;
+}
+
+.ibeyaz{
+
+color: black;
+position: relative;
+top:-55px;
+font-size:25px ;
+
+
+}
+.igri{
+
+    background-color: gray;
+    color: black;
+    position: relative;
+    top:-55px;
+    font-size:25px ;
+    
+    
+    }
+
+    .social{
+        color: white;
+        font-size:40px;
+    }
+
+    .socialmedia{
+        color: white;
+        background-color:black;
+    }
+    .card{
+
+        position: relative;
+        left: 725px;
+    }
+    
+
+    .contact {
+
+        background-color:aliceblue;
+    }
+    .skills {
+        
+        background-color: aliceblue;
+    }
+
+    .s {
+
+        background-color: aliceblue;
+    }
+
+    
+    .logolar{
+
+        font-size: 40px;
+
+    }
+    .text{
+
+        font-size: 35px;
+    }
+
+    .nav-link:hover{
+        opacity: 0.6;
+
+    }
+
+        
+
+
+    
